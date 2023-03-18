@@ -54,4 +54,4 @@ function game() {
     else
         return "There is no winner somehow...";
 }
-game();
+console.log(game()); //Thanks JMyers
